@@ -1,7 +1,5 @@
-# Vehicle-routing-problem-VRP-
+# Vehicle-routing-problem-VRP- (Final grade 84)
 **Vehicle Routing Problem Solver**
-
-**This project received a final score of 84**
 
 Welcome to the Vehicle Routing Problem Solver project.
 This repository contains the solution for the Vehicle Routing Problem (VRP), developed as the final project for the "Introduction to AI" course.
